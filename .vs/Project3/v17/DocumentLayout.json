@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salihpkdmr\\source\\repos\\Project3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D52B7030-26DA-4DB1-81B9-17BD1F780009}|g\u00FCn\\g\u00FCn.vcxproj|C:\\Users\\salihpkdmr\\source\\repos\\Project3\\g\u00FCn\\gunler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D52B7030-26DA-4DB1-81B9-17BD1F780009}|g\u00FCn\\g\u00FCn.vcxproj|solutionrelative:g\u00FCn\\gunler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C16DC4-ABD1-4461-B2B7-8DE46B631D6F}|Project3\\Project3.vcxproj|C:\\Users\\salihpkdmr\\source\\repos\\Project3\\Project3\\karakter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2C16DC4-ABD1-4461-B2B7-8DE46B631D6F}|Project3\\Project3.vcxproj|solutionrelative:Project3\\karakter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{785F1C29-F740-4966-B5CF-DBFB2D0E0490}|Project1\\Project1.vcxproj|C:\\Users\\salihpkdmr\\source\\repos\\Project3\\Project1\\hesap makinesi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{785F1C29-F740-4966-B5CF-DBFB2D0E0490}|Project1\\Project1.vcxproj|solutionrelative:Project1\\hesap makinesi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hesap makinesi.cpp",
+              "DocumentMoniker": "C:\\Users\\salihpkdmr\\source\\repos\\Project3\\Project1\\hesap makinesi.cpp",
+              "RelativeDocumentMoniker": "Project1\\hesap makinesi.cpp",
+              "ToolTip": "C:\\Users\\salihpkdmr\\source\\repos\\Project3\\Project1\\hesap makinesi.cpp",
+              "RelativeToolTip": "Project1\\hesap makinesi.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-23T19:38:15.801Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gunler.cpp",
+              "DocumentMoniker": "C:\\Users\\salihpkdmr\\source\\repos\\Project3\\g\u00FCn\\gunler.cpp",
+              "RelativeDocumentMoniker": "g\u00FCn\\gunler.cpp",
+              "ToolTip": "C:\\Users\\salihpkdmr\\source\\repos\\Project3\\g\u00FCn\\gunler.cpp",
+              "RelativeToolTip": "g\u00FCn\\gunler.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-23T20:01:46.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "karakter.cpp",
+              "DocumentMoniker": "C:\\Users\\salihpkdmr\\source\\repos\\Project3\\Project3\\karakter.cpp",
+              "RelativeDocumentMoniker": "Project3\\karakter.cpp",
+              "ToolTip": "C:\\Users\\salihpkdmr\\source\\repos\\Project3\\Project3\\karakter.cpp",
+              "RelativeToolTip": "Project3\\karakter.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-23T18:20:10.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 931,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
